@@ -72,9 +72,3 @@ This project is licensed under the [MIT License](LICENSE).
 - Runs on [Amazon Web Services (AWS)](https://aws.amazon.com/)
 
 **Happy Coding!** 🚀
-
-> _Feel free to customize this README to better suit your project and share your repository link once it's published!_
-
-Let me know if you'd like to add badges, examples, or any other specific sections!
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/83617965/5176b8eb-5fb2-4c97-9889-e8a43295c405/ami.txt
