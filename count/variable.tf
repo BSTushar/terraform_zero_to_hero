@@ -1,0 +1,3 @@
+variable "ami" {}
+
+variable "inst" {}
