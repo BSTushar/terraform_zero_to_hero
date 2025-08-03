@@ -1,7 +1,5 @@
 # 🚀 AWS Terraform Infrastructure
 
-![Terraform](https://img.shields.io/badge/Terraform-v1.0+-7B42BC?style=for-the-badge://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws
-
 This repository contains Terraform code to provision AWS infrastructure, including launching EC2 instances using the Amazon Machine Image (**AMI**):  
 **`ami-0f918f7e67a3323f0`**
 
